@@ -1,0 +1,14 @@
+﻿Analysis,Value
+k=3 subsample ARI,0.973 (p10=0.778)
+k=4 subsample ARI,0.958 (p10=0.919)
+k=3 stable core,736 (93.2%)
+k=4 stable core,759 (96.1%)
+LOFO k=3 min ARI,0.603 (SHR6_ms)
+LOFO k=4 min ARI,0.447 (MLCAPE_Jkg)
+RobustScaler k=3 ARI,0.928
+"Ward versus k-means, k=3 ARI",0.402
+"Ward versus k-means, k=4 ARI",0.475
+"Gaussian mixture versus k-means, k=3 ARI",0.404
+"Gaussian mixture versus k-means, k=4 ARI",0.360
+Feature schemes k=3 ARI range,"[0.613, 1.000]"
+Feature schemes k=4 ARI range,"[0.445, 1.000]"

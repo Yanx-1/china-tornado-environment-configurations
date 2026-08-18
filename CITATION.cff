@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript."
+title: "中国龙卷的稳定但重叠热力—动力环境配置及其多层背景"
+type: software
+authors:
+  - name: "Xu Yan"
+    orcid: "https://orcid.org/0009-0007-2799-2512"
+  - name: "Zhengyang Zhang"
+    orcid: "https://orcid.org/0009-0006-1893-6562"
+  - name: "Shuchang Liu"
+    orcid: "https://orcid.org/0009-0007-4262-8049"
+  - name: "韩艳"
+  - name: "孔海江"
+license: MIT
+version: "1.0.0-submission"

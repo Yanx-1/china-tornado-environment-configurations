@@ -1,0 +1,11 @@
+# Frozen runtime environment (verified 2026-08-16 against the running interpreter).
+# Versions match manuscript Section 2.6 and the reference_era5_final freeze manifest.
+# scikit-learn 1.8.0 is registered in the manuscript; the runtime check here is
+# advisory only. Install in a Python 3.11 environment.
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+xarray==2025.10.1
+metpy==1.7.1
+matplotlib==3.10.9

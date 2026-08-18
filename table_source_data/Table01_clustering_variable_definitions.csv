@@ -1,0 +1,6 @@
+﻿Variable,Unit,Clustering transform,Definition
+MLCAPE_Jkg,J kg−1,None,Mixed-layer CAPE (0-100 hPa)
+MLLCL_m,m,log1p,Mixed-layer LCL height
+ERA5_d2m_K,K,None,2m dewpoint temperature
+SHR6_ms,m s−1,None,0-6 km bulk wind shear
+SRH1_m2s2,m² s−2,None; signed values retained,0-1 km storm-relative helicity

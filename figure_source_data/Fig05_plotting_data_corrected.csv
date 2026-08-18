@@ -1,0 +1,23 @@
+﻿row_0,col_0,value,record_type,statistic,algorithm,k
+C0,K4_C0,123.0,k3_k4_correspondence,count,,
+C0,K4_C1,1.0,k3_k4_correspondence,count,,
+C0,K4_C2,6.0,k3_k4_correspondence,count,,
+C0,K4_C3,1.0,k3_k4_correspondence,count,,
+C1,K4_C0,2.0,k3_k4_correspondence,count,,
+C1,K4_C1,0.0,k3_k4_correspondence,count,,
+C1,K4_C2,101.0,k3_k4_correspondence,count,,
+C1,K4_C3,204.0,k3_k4_correspondence,count,,
+C2,K4_C0,0.0,k3_k4_correspondence,count,,
+C2,K4_C1,205.0,k3_k4_correspondence,count,,
+C2,K4_C2,141.0,k3_k4_correspondence,count,,
+C2,K4_C3,6.0,k3_k4_correspondence,count,,
+,,0.07378789270976073,alternative_algorithm_ari,,Ward,2.0
+,,0.4022360463730048,alternative_algorithm_ari,,Ward,3.0
+,,0.4751295875686038,alternative_algorithm_ari,,Ward,4.0
+,,0.52062584568429,alternative_algorithm_ari,,Ward,5.0
+,,0.48126303071189624,alternative_algorithm_ari,,Ward,6.0
+,,0.10705126554799196,alternative_algorithm_ari,,Gaussian mixture,2.0
+,,0.4042364097556675,alternative_algorithm_ari,,Gaussian mixture,3.0
+,,0.3603626397012443,alternative_algorithm_ari,,Gaussian mixture,4.0
+,,0.3133183519423285,alternative_algorithm_ari,,Gaussian mixture,5.0
+,,0.3424130975067353,alternative_algorithm_ari,,Gaussian mixture,6.0

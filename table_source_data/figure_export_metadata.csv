@@ -1,0 +1,7 @@
+file,width_px,height_px,format,mode,size_bytes
+FIG-AR1_pairwise_delta_by_anchor.png,2160,2850,PNG,RGBA,219425
+FIG-AR2_anchor_balanced_effect_forest.png,3450,810,PNG,RGBA,80155
+FIG-AR3_old_new_effect_comparison.png,3450,960,PNG,RGBA,78145
+FIG-AR4_cluster_stratified_effects.png,3450,960,PNG,RGBA,76531
+FIG-AR5_reference_rank_sensitivity.png,3450,900,PNG,RGBA,153845
+FIG-AR6_reference_type_effects.png,3450,960,PNG,RGBA,70320

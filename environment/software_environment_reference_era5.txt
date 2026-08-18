@@ -1,0 +1,8 @@
+Python=3.11.4
+MetPy=1.7.1
+NumPy=2.3.5
+SciPy=1.16.3
+pandas=2.3.3
+xarray=2025.10.1
+scikit-learn=1.8.0
+Matplotlib=3.10.9

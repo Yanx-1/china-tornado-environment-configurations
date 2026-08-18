@@ -1,0 +1,5 @@
+# manifest files are excluded from package_hashes.csv and package_manifest.csv
+# MANIFEST_SELF_HASHES.txt is self-excluded to avoid recursive self-hashing
+file	bytes	sha256
+manifest/package_hashes.csv	10461	080F9EC070841D8E7C1C3AF74E847B4BA192579E0B58213EE00E7C344FEB444A
+manifest/package_manifest.csv	10971	BAC8F79E31BDDCCBC947237092951729E9FC12892C4F8663F22A382A71163603

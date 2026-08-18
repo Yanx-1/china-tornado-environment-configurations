@@ -1,0 +1,22 @@
+{
+  "stage": "FINAL_CONTROLLED_MANUSCRIPT_PATCH_AND_SCIENCE_FREEZE_V3",
+  "science_freeze_v3_gate": "PASS",
+  "v2_gate_inherited": "PASS",
+  "v2_main_sha256": "3AD9836F3E9F1D506AA25199E6FE4B2AB21DB76714EE3F7A52B0D6C34ACF5D5A",
+  "v2_supplement_sha256": "DF48117603D282EDA786A0559C46F62B84F7BA2ED1F22B76B470C9B8A469E46E",
+  "v3_main_sha256": "5447100187EB2E54220BCF63C5E2D33D7DE0E5FF04257DDBF05D4D2739074735",
+  "v3_supplement_sha256": "EFFB7536246E5FE8B2AD2F196F0E73C29C68C96816A39C0D154F871C36048197",
+  "frozen_constants": {
+    "N": 790,
+    "C0": 131,
+    "C1": 307,
+    "C2": 352,
+    "stable_core_N": 736,
+    "ward_ari_all": 0.402236,
+    "gmm_ari_all": 0.404236,
+    "ward_ari_core": 0.514,
+    "gmm_ari_core": 0.483,
+    "spearman_max_abs_rho": 0.584,
+    "negative_srh1_total": 83
+  }
+}

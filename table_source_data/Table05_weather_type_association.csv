@@ -1,0 +1,8 @@
+﻿Statistic,Value
+Valid n,787
+χ² (df=16),437.1
+Raw Cramér’s V,0.5270
+Bias-corrected Cramér’s V,0.5172
+95% bootstrap CI,0.4898–0.5758
+Permutation p,<0.0001
+Sparse cells,4/27

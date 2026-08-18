@@ -1,0 +1,38 @@
+{
+  "stage": "ALLREF_MATCHEDSET_ANALYSIS_STAGE_FROZEN",
+  "ALLREF_MATCHEDSET_ANALYSIS_GATE": "PASS",
+  "READY_FOR_MANUSCRIPT_SENSITIVITY_INTEGRATION": "YES",
+  "ANALYSIS_STATUS": "POST_HOC_ADDITIONAL_ROBUSTNESS",
+  "PAIR_ROWS": 181,
+  "MATCHED_ANCHORS": 105,
+  "INFERENCE_CLUSTER": "TORNADO_ANCHOR",
+  "PAIR_WEIGHT": "1 / NUMBER_OF_REFERENCES_FOR_ANCHOR",
+  "OLD_PRIMARY_STATUS": "UNCHANGED_AND_PRESERVED",
+  "OLD_PRIMARY": "105 x 105 rank1",
+  "NEW_ANALYSIS": "all 181 references retained in 105 matched sets",
+  "H_ERA5_CTRL_used": false,
+  "input_hashes": {
+    "reference_environment_181": "e6aa1422406ab73fc75d56eb577de1d558b0eea669fdbce6a1ce55c6c30c7ba9",
+    "formal_tornado_environment": "e30fa4d34344267238b4dd7b9b1d48069d2206d5aeaf8da7372007120b0ff20f",
+    "frozen_k3_labels": "ddb805703054db394c335a5ecba88be09b71531806b7c1880d9154298d6e2e74",
+    "old_freeze": "3a845aba2cc814829f4f445c89808afc1c3e285a27de90e7652615bebe54d488",
+    "old_manifest": "449e483f134a5cab50d061e055b8c3d9737bc8b35d223545724af52bb01a32fe"
+  },
+  "key_output_hashes": {
+    "all_reference_pairs_181": "567bccc3213ad48d35b7a12a1db0bc8e7d179f5c7a4a820445295510996c3de5",
+    "anchor_balanced_pair_effects": "a7bac9ffc99f8932b5f1f283b56cfdbbe2202e4c0dbd426a28c932c570dbc8f6",
+    "anchor_level_inference": "9c943b70d336f2ddd62f17e0ab3f304e65ad00e1c3cdd1b609a651f6af359d01",
+    "old_new_consistency": "bc28aec4898a43c7267b1d991d45f62b0fe12cc012b20db276e57b269de448d8",
+    "independent_audit": "2235f1daf3b9b40bbbc39674e147ed387e5fc7e96893b78b40c4abaf85290602",
+    "final_gate": "d0b6a63507a6e82e0ee80382402a5e7e659a6279df404540db768c63840c7dbc",
+    "freeze": "56c76d48d1873d3490fb8dea547ac79ce99deed25ddef406aba860a9596d459b",
+    "final_report": "1b45610f25c5f9d0233159024e9abd7394b47b6453e6ac43c803f8b7863e9fbd"
+  },
+  "script_hashes": {
+    "01_run_allrefs_analysis.py": "89c8183c0eece6333e18335fde71328c2eb9305111b256b0076d5a004bd712cd",
+    "audit_allrefs_matchedset.py": "f2de1c2a2443748817edafe0720f98d746fc5e896043dbb0d45b8b7e65aa4a36",
+    "02_finalize_and_freeze.py": "3d3be749e66273521298a3106f04182800a765c1b743f2232d848e2a246340c8"
+  },
+  "file_hash_registry_sha256": "6c894639c3c1713f8706b8745f1345b1a155545ad067aba71aabfe2d59672d39",
+  "software_environment_sha256": "7d2a03fe6c949e9f07034b3c4f025e598f6879c29749431ba3d22f7df71898f9"
+}

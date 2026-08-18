@@ -1,0 +1,8 @@
+﻿Metric,Value
+"k=3 subsample ARI, median",0.973
+"k=3 subsample ARI, 10th percentile",0.778
+k=3 stable core,736 (93.2%)
+k=3 moderate,47 (5.9%)
+k=3 boundary,7 (0.9%)
+"Ward versus k-means, k=3 ARI",0.402
+"Gaussian mixture versus k-means, k=3 ARI",0.404

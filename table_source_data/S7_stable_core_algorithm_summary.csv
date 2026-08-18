@@ -1,0 +1,3 @@
+﻿algorithm,N_all,ARI_all_replayed,ARI_all_expected,N_core,ARI_core,exact_alignment_permutation,N_core_agree,core_agreement_fraction,C0_core_N,C0_retained_N,C0_retention_fraction,C1_core_N,C1_retained_N,C1_retention_fraction,C2_core_N,C2_retained_N,C2_retention_fraction
+ward,790,0.4022360463730048,0.402236,736,0.5143003528780625,"(2, 0, 1)",605,0.8220108695652174,129,88,0.6821705426356589,256,166,0.6484375,351,351,1.0
+gmm,790,0.4042364097556675,0.404236,736,0.4828863320090859,"(0, 1, 2)",585,0.7948369565217391,129,111,0.8604651162790697,256,212,0.828125,351,262,0.7464387464387464

@@ -1,0 +1,4 @@
+﻿cluster,cluster_N,negative_N,negative_pct_within_cluster,positive_or_zero_N,median_SRH1,P25_SRH1,P75_SRH1
+C0,131,32,24.43,99,9.48,0.02,35.06
+C1,307,48,15.64,259,22.26,4.99,42.02
+C2,352,3,0.85,349,102.26,73.35,141.97

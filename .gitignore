@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credentials (must never be committed)
+.cdsapirc
+.env
+*credentials*
+*secret*
+
+# Raw third-party data (not redistributable; excluded by design)
+*.nc
+era5_downloaded/
+H_tronado/
+F_tronado/
+
+# OS
+.DS_Store
+Thumbs.db
